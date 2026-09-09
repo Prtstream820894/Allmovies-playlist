@@ -3,9 +3,9 @@ import requests
 # Aapke 4 Cloudflare Workers ke links
 PLAYLIST_URLS = [
     "https://allmovieslist.poonamchouhan076.workers.dev/",
-    "https://old-shape-1bd3.poonamchouhan076.workers.dev/",
+    "https://old-shape-1bd3.poonamchouhan076.work",
     "https://divine-moon-058f.poonamchouhan076.workers.dev/",
-    "https://hdhub4u-lake-f103.poonamchouhan076.workers.dev/"
+    "https://hdhub4u-lake-f103.poonamchouhan076.work"
 ]
 
 def fetch_and_merge():
