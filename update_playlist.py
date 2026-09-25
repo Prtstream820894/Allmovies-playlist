@@ -4,7 +4,7 @@ import requests
 PLAYLIST_URLS = [
     "https://allmovieslist.poonamchouhan076.workers.dev/",
     "https://old-shape-1bd3.poonamchouhan076.work",
-    "https://divine-moon-058f.poonamchouhan076.workers.dev/",
+    "https://divine-moon-058f.pohan076.workers.dev/",
     "https://hdhub4u-lake-f103.poonamchouhan076.work"
 ]
 
