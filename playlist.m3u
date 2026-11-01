@@ -1,17 +1,1 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bobgoldpr.com/wp-content/uploads/2024/10/Willow-Sports-Stacked-Logo-White-e1728946503266.png" group-title="Sports",Willow plus
-https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dangal-2-in.png" group-title="Entertainment",Dangal 2
-https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DANGAL/images/LOGO_HD/image.png" group-title="Entertainment",Dangal tv
-https://live-dangal.akamaized.net/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsG1iii9oJ0-z3ApcgFItUDrhrtRwe9IQXbzky5lMAzUhxwJSh3amxeDI&s=10" group-title="entertainment",Sony kal
-https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zoom.png" group-title="Music",Zoom music 
-https://dai.google.com/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Music_India.png" group-title="Music",Music India
-https://amg00416-amg00416c5-samsung-in-3259.playouts.now.amagi.tv/playlist/amg00416-travelxp-musicindia-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/e41d7120121fbc7f3fe1f07b30c737d2.png" group-title="Music",B4U Music 
-https://amg00877-amg00877c3-samsung-in-6976.playouts.now.amagi.tv/playlist/amg00877-b4unetworkeuropefast-b4umusic-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTQzMmRkODUtZjQ2Ni00ZGZhLWIzZTEtOTMwZGMyMDIwYmM1XkEyXkFqcGc@._V1_FMjpg_UY720_.jpg" group-title="Movies",Jack &#038; Dil (2018)
-https://speedostream1.com/embed-dynqz4e6qqza.html
